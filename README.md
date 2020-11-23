@@ -85,17 +85,11 @@
 
 
 ---
-
-<img align="left" alt="PraveenOruganti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveenoruganti&show_icons=true&hide_border=true&hide_rank=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-
----
 # If you want to buy me a coffee
 ### PayPal
 https://paypal.me/praveenorugantitech
 ### UPI
 praveenorugantitech@hdfcbank
-
 
 ---
 
