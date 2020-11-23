@@ -40,7 +40,6 @@
 - [All About Java Collections](https://praveenorugantitech.blogspot.com/search/label/Collections)
 - [All About Spring](https://praveenorugantitech.blogspot.com/search/label/Spring)
 - [All About SpringBoot](https://praveenorugantitech.blogspot.com/search/label/Spring%20Boot)
-- [Java Interview Questions](https://praveenorugantitech.blogspot.com/search/label/Interview%20Questions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -65,6 +64,7 @@
 - [JPA Using Hibernate](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_JPAUsingHibernate.pdf)
 - [All About MicroServices, PCF and Spring Cloud](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_MicroServices_PCF_Spring%20Cloud.pdf)
 - [All About React JS](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_React%20JS.pdf)
+- [Java Interview Questions](https://github.com/praveenoruganti/PraveenOruganti-Tech-Ebooks/blob/master/Praveen%20Oruganti_%20Java%20Interview%20Questions.pdf)
 
 ---
 
@@ -90,8 +90,6 @@
 https://paypal.me/praveenorugantitech
 ### UPI
 praveenorugantitech@hdfcbank
-
----
 
 [website]: https://praveenorugantitech.blogspot.com
 [twitter]: https://mobile.twitter.com/praveenoruganti
